@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RTB2k Pattern Gen Adapter.PcbDoc]
+   Generated File[RTB2k Pattern Gen Adapter.TXT]
+   Generated File[RTB2k Pattern Gen Adapter.LDP]
+   Generated File[RTB2k Pattern Gen Adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:57:22 On 30/09/2020

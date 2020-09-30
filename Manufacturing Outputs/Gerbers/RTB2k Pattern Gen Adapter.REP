@@ -1,0 +1,311 @@
+*************************************************************
+FileName = RTB2k Pattern Gen Adapter.GBR
+AutoAperture = True
+*************************************************************
+Generating : Drill Drawing
+      File : RTB2k Pattern Gen Adapter.GD1
+
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D12
+    D38
+    D39
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : RTB2k Pattern Gen Adapter.GG1
+
+    Adding Layer      : Board Outline
+
+    Adding Drill Pair : Bottom Layer-Top Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D12
+    D38
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : RTB2k Pattern Gen Adapter.GM13
+
+    Adding Layer      : Mechanical 13
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 15
+      File : RTB2k Pattern Gen Adapter.GM15
+
+    Adding Layer      : Mechanical 15
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : RTB2k Pattern Gen Adapter.GM1
+
+    Adding Layer      : Mechanical 1
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : RTB2k Pattern Gen Adapter.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : RTB2k Pattern Gen Adapter.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : RTB2k Pattern Gen Adapter.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+    D21
+    D22
+    D23
+    D24
+    D25
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : RTB2k Pattern Gen Adapter.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : RTB2k Pattern Gen Adapter.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D16
+    D17
+    D18
+    D19
+    D20
+    D34
+    D35
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : RTB2k Pattern Gen Adapter.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+    D21
+    D22
+    D23
+    D24
+    D25
+    D27
+    D28
+*************************************************************
+
+*************************************************************
+Generating : Board Outline
+      File : RTB2k Pattern Gen Adapter.GM4
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : RTB2k Pattern Gen Adapter.GTO
+
+    Adding Layer      : Top Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : RTB2k Pattern Gen Adapter.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : RTB2k Pattern Gen Adapter.GBO
+
+    Adding Layer      : Bottom Overlay
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D11
+    D12
+    D13
+    D36
+    D37
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : RTB2k Pattern Gen Adapter.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Board Outline
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D12
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 9
+      File : RTB2k Pattern Gen Adapter.GM9
+
+    Adding Layer      : Mechanical 9
+
+    Adding Layer      : Board Outline
+
+
+Used DCodes :
+    D12
+*************************************************************
+

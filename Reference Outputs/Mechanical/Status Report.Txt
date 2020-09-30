@@ -1,0 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:58:11 On 30/09/2020
+
+Output: Export STEP Model of complete PCB
+Type  : ExportSTEP
+From  : Variant [[No Variations]] of PCB Document [RTB2k Pattern Gen Adapter.PcbDoc]
+   Generated File[Export STEP Model of complete PCB_RTB2k Pattern Gen Adapter-([No Variations]).step]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:58:12 On 30/09/2020

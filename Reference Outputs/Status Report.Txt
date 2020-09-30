@@ -1,0 +1,15 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:58:16 On 30/09/2020
+
+Output: BoM CSV
+Type  : BOM
+From  : Variant [[No Variations]] of Project [RTB2k Pattern Gen Adapter.PrjPcb]
+   Generated File[BoM CSV-RTB2k Pattern Gen Adapter.csv]
+   Generated File[BoM CSV-RTB2k Pattern Gen Adapter.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 11:58:17 On 30/09/2020
